@@ -74,3 +74,6 @@ footer {
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.1);
     font-weight: 700;
 }
+footer time {
+    font-weight: 700;
+}
