@@ -1,0 +1,26 @@
+.partners-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.partners-list article {
+    flex-basis: 280px;
+    flex-grow: 1;
+    border: 1px solid #eee;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.partners-list img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    background-color: #f9f9f9;
+    margin-bottom: 15px;
+}
+
+.partners-list h3 {
+    margin-bottom: 10px;
+}
