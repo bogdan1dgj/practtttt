@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+dist/
+build/
+*.zip
+*.rar
+*.7z
+*.tmp
+*.swp
