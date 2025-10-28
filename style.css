@@ -71,9 +71,7 @@ footer {
     margin-top: 5px;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 5px;
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.1);
-    font-weight: 700;
-}
-footer time {
     font-weight: 700;
 }
